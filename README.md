@@ -1,1 +1,1 @@
-# ebooks
+# Books on Java and Scala
